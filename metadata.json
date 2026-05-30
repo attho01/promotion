@@ -1,0 +1,6 @@
+{
+  "name": "새일센터 모집 스크립트 생성기",
+  "description": "여성새로일하기센터 참여자 모집을 위한 채널별 스크립트 작성 및 피드백 수정 관리 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
